@@ -1,0 +1,674 @@
+public class facts {
+	public static void main(String[]orgs) {
+	System.out.println("Banging your head against a wall for one hour burns 150 calories.\n" + 
+			"Banging your head against a wall for one hour burns 150 calories.\n" + 
+			"Alternatively, you can walk your dog for 45 minutes, which also burns 150 calories – and is much less painful.\n" + 
+			"\n" + 
+			"You can also check out these other weird ways to burn calories.\n" + 
+			"\n" + 
+			"In Switzerland it is illegal to own just one guinea pig.\n" + 
+			"In Switzerland it is illegal to own just one guinea pig.\n" + 
+			"This is because guinea pigs are social animals, and they are considered victims of abuse if they are alone.\n" + 
+			"\n" + 
+			"Why isn’t this a law everywhere?!\n" + 
+			"\n" + 
+			"Pteronophobia is the fear of being tickled by feathers.\n" + 
+			"Pteronophobia is the fear of being tickled by feathers.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"It’s also a fear of feathers themselves. The word “ptero” is the Greek word for feather, and “phobia” is also Greek, meaning fear.\n" + 
+			"\n" + 
+			"Snakes can help predict earthquakes.\n" + 
+			"Snakes can help predict earthquakes.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"They can sense a coming earthquake from 75 miles away (121 km), up to five days before it happens.\n" + 
+			"\n" + 
+			"Why not check out these other fun facts about snakes.\n" + 
+			"\n" + 
+			"A flock of crows is known as a murder.\n" + 
+			"A flock of crows is known as a murder.\n" + 
+			"Some might say that a group of two crows is an attempted murder!\n" + 
+			"\n" + 
+			"Want to know what a group of owls is called? Well here’s an A to Z of animal group names.\n" + 
+			"\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"The oldest “your mom” joke was discovered on a 3,500 year old Babylonian tablet.\n" + 
+			"The oldest \"your mom\" joke was discovered on a 3,500 year old Babylonian tablet.\n" + 
+			"It was discovered in Iraq in 1976, however since then the tablet has been lost, but the text remains preserved.\n" + 
+			"\n" + 
+			"So far, two diseases have successfully been eradicated: smallpox and rinderpest.\n" + 
+			"So far, two diseases have successfully been eradicated: smallpox and rinderpest.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"The last naturally occurring case of smallpox was diagnosed in October 1977, and the last case of rinderpest was diagnosed in 2001.\n" + 
+			"\n" + 
+			"29th May is officially “Put a Pillow on Your Fridge Day”.\n" + 
+			"29th May is officially \"Put a Pillow on Your Fridge Day\".\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"This strange holiday spans back to the early 1900’s, where families would place a piece of cloth in their larders.\n" + 
+			"\n" + 
+			"It’s celebrated in Europe and the U.S.A to bring luck & wealth to the household.\n" + 
+			"\n" + 
+			"Read more about Put a Pillow on Your Fridge Day right here!\n" + 
+			"\n" + 
+			"Cherophobia is an irrational fear of fun or happiness.\n" + 
+			"Cherophobia is an irrational fear of fun or happiness.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"That’s one phobia I wouldn’t like to have… it would probably mean they would fear these fun facts!\n" + 
+			"\n" + 
+			"7% of American adults believe that chocolate milk comes from brown cows.\n" + 
+			"7% of American adults believe that chocolate milk comes from brown cows.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"I know 7% doesn’t sound like a lot, but that actually works out at 16.4 million American adults.\n" + 
+			"\n" + 
+			"Sounds like a lot now right?\n" + 
+			"\n" + 
+			"If you lift a kangaroo’s tail off the ground it can’t hop.\n" + 
+			"If you lift a kangaroo's tail off the ground it can't hop.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"Kangaroos use their tails for balance whilst hopping, so if you elevate their tail, they would have no balance and fall over.\n" + 
+			"\n" + 
+			"Don’t miss these other fun facts about kangaroos.\n" + 
+			"\n" + 
+			"Bananas are curved because they grow towards the sun.\n" + 
+			"Bananas are curved because they grow towards the sun.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"Bananas go through a process called “negative geotropism.” Instead of growing towards the ground, they start growing towards the sun.\n" + 
+			"\n" + 
+			"The fruit grows against gravity, which gives the banana its familiar curved shape.\n" + 
+			"\n" + 
+			"Love bananas? You’ll go bananas over these fun facts about bananas!\n" + 
+			"\n" + 
+			"Billy goats urinate on their own heads to smell more attractive to females.\n" + 
+			"Billy goats urinate on their own heads to smell more attractive to females.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"Billy goats, or bucks is the name given to male goats.\n" + 
+			"\n" + 
+			"Generally they urinate on themselves in late summer through fall, and for humans, it’s not a pleasant smell.\n" + 
+			"\n" + 
+			"The inventor of the Frisbee was cremated and made into a Frisbee after he died.\n" + 
+			"The inventor of the Frisbee was cremated and made into a Frisbee after he died.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"Walter Frederick Morrison invented the Frisbee in 1948, which was originally called the Pluto Platter.\n" + 
+			"\n" + 
+			"In 2010, at age 90 he died and his family cremated him and turned his ashes in to the Frisbee.\n" + 
+			"\n" + 
+			"During your lifetime, you will produce enough saliva to fill two swimming pools.\n" + 
+			"During your lifetime, you will produce enough saliva to fill two swimming pools.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"An average human produces between 1 to 2 liters of saliva each day, which is a maximum of 730 liters per year.\n" + 
+			"\n" + 
+			"The average life expectancy is just over 70 years, which gives a maximum of 51,100 liters of saliva produced in an average lifetime.\n" + 
+			"\n" + 
+			"This is more than enough to fill two swimming pools.\n" + 
+			"\n" + 
+			"If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.\n" + 
+			"If Pinocchio says \"My Nose Will Grow Now\", it would cause a paradox.\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"This is known as Pinocchio’s Paradox.\n" + 
+			"\n" + 
+			"If you think about it, Pinocchio’s nose would have to grow to make his statement not a lie, but then it can’t grow otherwise the statement would not be a lie.\n" + 
+			"\n" + 
+			"Polar bears could eat as many as 86 penguins in a single sitting…\n" + 
+			"Polar bears could eat as many as 86 penguins in a single sitting...\n" + 
+			"…If they didn’t live at opposite ends of the earth! Polar bears live in the arctic, whereas penguins usually live in Antarctica.\n" + 
+			"\n" + 
+			"King Henry VIII slept with a gigantic axe beside him.\n" + 
+			"King Henry VIII slept with a gigantic axe beside him.\n" + 
+			"This wasn’t the only lethal weapon he owned. King Henry VIII had a huge collection of weapons, which included 6,500 handguns.\n" + 
+			"\n" + 
+			"Movie trailers were originally shown after the movie, which is why they were called “trailers”.\n" + 
+			"Movie trailers were originally shown after the movie, which is why they were called \"trailers\".\n" + 
+			"The problem with the trailers showing after the film was that audience wouldn’t stay around to watch them, making the trailers rather ineffective.\n" + 
+			"\n" + 
+			"An eagle can kill a young deer and fly away with it.\n" + 
+			"An eagle can kill a young deer and fly away with it.\n" + 
+			"Never underestimate an eagle!\n" + 
+			"\n" + 
+			"Heart attacks are more likely to happen on a Monday.\n" + 
+			"Heart attacks are more likely to happen on a Monday.\n" + 
+			"Okay this isn’t exactly a fun fact, but it is interesting! Heart attacks are increased by 20% on Monday’s.\n" + 
+			"\n" + 
+			"The most common time for them to happen is between 4-10 a.m.\n" + 
+			"\n" + 
+			"Don’t worry though, there are positive & fun facts about Monday too!\n" + 
+			"\n" + 
+			"Tennis players are not allowed to swear when they are playing in Wimbledon.\n" + 
+			"Tennis players are not allowed to swear when they are playing in Wimbledon.\n" + 
+			"Because of this, line judges have to learn curse words in every language so they know when a player has violated the rules.\n" + 
+			"\n" + 
+			"In 2017 more people were killed from injuries caused by taking a selfie than by shark attacks.\n" + 
+			"In 2017 more people were killed from injuries caused by taking a selfie than by shark attacks.\n" + 
+			"There was only 5 deaths due to shark attacks in 2017, which is lower than the average year.\n" + 
+			"\n" + 
+			"The average amount of deaths caused by sharks is 6.\n" + 
+			"\n" + 
+			"Worldwide, there was 35 deaths caused by taking selfies in 2017.\n" + 
+			"\n" + 
+			"The top six foods that make your fart are beans, corn, bell peppers, cauliflower, cabbage and milk.\n" + 
+			"The top six foods that make your fart are beans, corn, bell peppers, cauliflower, cabbage and milk.\n" + 
+			"It’s probably best if you avoid eating any of these if you’re going on a date!\n" + 
+			"\n" + 
+			"You’ll probably like to know some fun facts about these foods that make you poo.\n" + 
+			"\n" + 
+			"There is a species of spider called the Hobo Spider.\n" + 
+			"There is a species of spider called the Hobo Spider.\n" + 
+			"Most bites from the Hobo Spider (Tegenaria agrestis) happen when the spider is accidentally crushed or squeezed by a human.\n" + 
+			"\n" + 
+			"A lion’s roar can be heard from 5 miles away.\n" + 
+			"A lion's roar can be heard from 5 miles away.\n" + 
+			"To be more specific, a lion can roar as loud as 114 decibels, which is roughly 25 times louder than a gas-powered lawnmower.\n" + 
+			"\n" + 
+			"If you like this fun fact, check out our clothing over at The Fact Shop – A Lion’s Roar Can Be Heard From 5 Miles Away T-Shirt\n" + 
+			"\n" + 
+			"Saint Lucia is the only country in the world named after a woman.\n" + 
+			"Saint Lucia is the only country in the world named after a woman.\n" + 
+			"Saint Lucia was discovered by the French after they were shipwrecked on the island.\n" + 
+			"\n" + 
+			"They arrived on December 13th which is the feast day of Saint Lucy – hence, why they named it Saint Lucia!\n" + 
+			"\n" + 
+			"If you’re planning a vacation, why not check out these random fun facts about Saint Lucia!\n" + 
+			"\n" + 
+			"A baby spider is called a spiderling.\n" + 
+			"A baby spider is called a spiderling.\n" + 
+			"Spiders aren’t cute, but this name kind of is! Spiderling is the official name for immature spiders.\n" + 
+			"\n" + 
+			"On top of that, spiderlings are often born in groups of thousands!\n" + 
+			"\n" + 
+			"Check out these eight creepy facts about spiders.\n" + 
+			"\n" + 
+			"The United States Navy has started using Xbox controllers for their periscopes.\n" + 
+			"The United States Navy has started using Xbox controllers for their periscopes.\n" + 
+			"You read that right – because the control stick for periscopes is so complicated, using Xbox controllers reduces the learning time from hours to minutes.\n" + 
+			"\n" + 
+			"The following can be read forward and backwards: Do geese see God?\n" + 
+			"The following can be read forward and backwards: Do geese see God?\n" + 
+			"This sentence is what is called a “palindrome.”\n" + 
+			"\n" + 
+			"The word itself is from the Greek “palin” meaning “back,” and “dromos” meaning “direction.”\n" + 
+			"\n" + 
+			"A baby octopus is about the size of a flea when it is born.\n" + 
+			"A baby octopus is about the size of a flea when it is born.\n" + 
+			"You would think this would make them hard to spot, however since eggs are laid by the tens of thousands, it would be hard to miss a massive cluster of pea-sized octopuses!\n" + 
+			"\n" + 
+			"A sheep, a duck and a rooster were the first passengers in a hot air balloon.\n" + 
+			"A sheep, a duck and a rooster were the first passengers in a hot air balloon.\n" + 
+			"You read that right – in 1783, the first hot air balloon was launched carrying a sheep, duck, and a rooster.\n" + 
+			"\n" + 
+			"The flight lasted for 8 minutes before landing safely with its passengers.\n" + 
+			"\n" + 
+			"In Uganda, around 48% of the population is under 15 years of age.\n" + 
+			"In Uganda, around 48% of the population is under 15 years of age.\n" + 
+			"Of the 41 million inhabitants, nearly half of those are youths.\n" + 
+			"\n" + 
+			"If you were to expand the age to just 30, that brings the percentage up to 77%!\n" + 
+			"\n" + 
+			"The average male gets bored of a shopping trip after 26 minutes.\n" + 
+			"The average male gets bored of a shopping trip after 26 minutes.\n" + 
+			"Meanwhile, women don’t get tired of shopping until around 2 hours!\n" + 
+			"\n" + 
+			"So next time you see a couple at a retail store with a bored looking boyfriend, you know they’ve been out for more than half an hour.\n" + 
+			"\n" + 
+			"In the 16th Century, Turkish women could initiate a divorce if their husbands didn’t pour coffee for them.\n" + 
+			"In the 16th Century, Arab women could initiate a divorce if their husbands didn't pour coffee for them.\n" + 
+			"Today, this would be unheard of. But back then, coffee was an integral part of Turkish society. So much so, that it was “grounds” for divorce.\n" + 
+			"\n" + 
+			"No one knows why exactly this was acceptable, but the fact remains that it was!\n" + 
+			"\n" + 
+			"Recycling one glass jar saves enough energy to watch television for 3 hours.\n" + 
+			"Recycling one glass jar saves enough energy to watch television for 3 hours.\n" + 
+			"Yup, that’s how important recycling is!\n" + 
+			"\n" + 
+			"The average person has the chance to recycle 25,000 cans in their lifetime – that’s 75,000 hours of television!\n" + 
+			"\n" + 
+			"After the premiere of “16 and Pregnant,” teen pregnancy rates dropped.\n" + 
+			"After the premiere of \"16 and Pregnant,\" teen pregnancy rates dropped.\n" + 
+			"MTV may not have the most wholesome programs, but after the premier of this show, teen pregnancy dropped by 5.7% within 18 months of the show airing.\n" + 
+			"\n" + 
+			"Approximately 10-20% of U.S. power outages are caused by squirrels.\n" + 
+			"Approximately 10-20% of U.S. power outages are caused by squirrels.\n" + 
+			"Harmless and cute as they seem, these fuzzy little creatures aren’t as innocent as you think!\n" + 
+			"\n" + 
+			"Squirrels have a tendency of chewing the wires, but luckily it’s a simple fix.\n" + 
+			"\n" + 
+			"Facebook, Instagram and Twitter are all banned in China.\n" + 
+			"Facebook, Instagram and Twitter are all banned in China.\n" + 
+			"Those aren’t the only ones either – over 8,000 domain names are blocked.\n" + 
+			"\n" + 
+			"Other major banned social network sites include Pinterest and Tumblr.\n" + 
+			"\n" + 
+			"95% of people text things they could never say in person.\n" + 
+			"95% of people text things they could never say in person.\n" + 
+			"Are you guilty of this? I know I am.\n" + 
+			"\n" + 
+			"Honeybees can recognize human faces.\n" + 
+			"Honeybees can recognize human faces.\n" + 
+			"Whereas before it was thought that only large brained mammals could distinguish faces, but honeybees can do this as well!\n" + 
+			"\n" + 
+			"They see faces in a compilation of 5,000 individual images – kind of like pixels.\n" + 
+			"\n" + 
+			"The Battle of Hastings didn’t take place in Hastings.\n" + 
+			"The Battle of Hastings didn't take place in Hastings.\n" + 
+			"The famous Battle of Hastings actually took place 7 miles from Hastings in a town that is today known as Battle. Fitting, right?\n" + 
+			"\n" + 
+			"You may also like these fun facts about The Battle of Hastings.\n" + 
+			"\n" + 
+			"While trying to find a cure for AIDS, the Mayo Clinic made glow in the dark cats.\n" + 
+			"While trying to find a cure for AIDS, the Mayo Clinic made glow in the dark cats.\n" + 
+			"This is due to their use a specific protein that was fluorescent green.\n" + 
+			"\n" + 
+			"They used this protein to find out if their tests worked: if the animal glowed, the outcome was successful.\n" + 
+			"\n" + 
+			"A swarm of 20,000 bees followed a car for two days because their queen was stuck inside.\n" + 
+			"A swarm of 20,000 bees followed a car for two days because their queen was stuck inside.\n" + 
+			"When the car parked, the thousands of bees swarmed onto the car and had to be taken off by beekeepers.\n" + 
+			"\n" + 
+			"The next day, the bees were back on the car because the queen was still inside and the swarm had to be taken off again.\n" + 
+			"\n" + 
+			"Nearly 3% of the ice in Antarctic glaciers is penguin urine.\n" + 
+			"Nearly 3% of the ice in Antarctic glaciers is penguin urine.\n" + 
+			"Because the temperature in the Antarctic is well below zero, the urine can’t evaporate and just combines with the glaciers.\n" + 
+			"\n" + 
+			"Bob Dylan’s real name is Robert Zimmerman.\n" + 
+			"Bob Dylan's real name is Robert Zimmerman.\n" + 
+			"Yep, his full name is Robert Allen Zimmerman – he started going by Bob Dylan early on in his career for no real reason. Simply because he wanted to!\n" + 
+			"\n" + 
+			"A crocodile can’t poke its tongue out.\n" + 
+			"A crocodile can't poke its tongue out.\n" + 
+			"Because their tongues are attached to the roof of their mouths, crocodiles cannot stick their tongues out – although their very similar counterparts, alligators, can.\n" + 
+			"\n" + 
+			"If you like this crocodile fact, we have this awesome fun fact printed on our t-shirts: A Crocodile Can’t Stick its Tongue Out T-Shirt.\n" + 
+			"\n" + 
+			"Sea otters hold hands when they sleep so they don’t drift away from each other.\n" + 
+			"Sea otters hold hands when they sleep so they don't drift away from each other.\n" + 
+			"This is a method mostly used by a mother and her pup to prevent them from separating.\n" + 
+			"\n" + 
+			"Other than holding hands, they may also wrap themselves in kelp to keep from drifting away!\n" + 
+			"\n" + 
+			"A small child could swim through the veins of a blue whale.\n" + 
+			"A small child could swim through the veins of a blue whale.\n" + 
+			"If you consider how large a blue whale’s heart is the size of a small car, it’s no surprise that a small child, around 3-4 years old, could swim through the massive veins of a blue whale.\n" + 
+			"\n" + 
+			"Bin Laden’s death was announced on 1st May 2011. Hitler’s death was announced on 1st May 1945.\n" + 
+			"Bin Laden's death was announced on 1st May 2011. Hitler's death was announced on 1st May 1945.\n" + 
+			"Both of these cruel leader’s deaths were announced on the same day, but due to the time difference, Bin Laden actually died on May 2nd.\n" + 
+			"\n" + 
+			"The announcement was made in the U.S. which was hours enough ahead to still be May 1st.\n" + 
+			"\n" + 
+			"J.K. Rowling chose the unusual name “Hermione” so young girls wouldn’t be teased for being nerdy.\n" + 
+			"J.K. Rowling chose the unusual name 'Hermione' so young girls wouldn't be teased for being nerdy.\n" + 
+			"The name Hermione came from Shakespeare’s “A Winter’s Tale.”\n" + 
+			"\n" + 
+			"Rowling says when she chose the name, she “didn’t want a lot of fairly hard-working little girls to be teased if ever the book was published.”\n" + 
+			"\n" + 
+			"Hewlett-Packard’s (also known as HP) name was decided in a coin toss in 1939.\n" + 
+			"Hewlett-Packard's (also known as HP) name was decided in a coin toss in 1939.\n" + 
+			"The name was always going to be a hyphenation of the two founders last names, so in order to decide between Hewlett-Packard and Packard-Hewlett, they flipped a coin.\n" + 
+			"\n" + 
+			"You may also like these top 100 fun facts about technology.\n" + 
+			"\n" + 
+			"There is a total of 1,710 steps in the Eiffel Tower.\n" + 
+			"There is a total of 1,710 steps in the Eiffel Tower.\n" + 
+			"Standing 108 stories tall, there are 1,710 steps to get to the top of the Eiffel Tower.\n" + 
+			"\n" + 
+			"However, guests are only allowed to climb the stairs until the first platform.\n" + 
+			"\n" + 
+			"From there, they must take a lift to the top.\n" + 
+			"\n" + 
+			"The Pokémon Hitmonlee and Hitmonchan are based off of Bruce Lee and Jackie Chan.\n" + 
+			"The Pokémon Hitmonlee and Hitmonchan are based off of Bruce Lee and Jackie Chan.\n" + 
+			"The third Pokemon of the Hitmons is also named after a martial artist.\n" + 
+			"\n" + 
+			"Hitmontop is named after a lesser known martial artist, Larry Top.\n" + 
+			"\n" + 
+			"If you love Pokémon, you’ll love these fun facts about the original 151 Pokémon.\n" + 
+			"\n" + 
+			"A woman tried to commit suicide by jumping off the Empire State Building. She jumped from the 86th floor but was blown back onto the 85th floor by a gust of wind.\n" + 
+			"A woman tried to commit suicide by jumping off the Empire State Building. She jumped from the 86th floor but was blown back onto the 85th floor by a gust of wind.\n" + 
+			"Standing almost 1,500 feet tall, there’s no way anyone could survive that fall.\n" + 
+			"\n" + 
+			"However, when Elvita Adams tried to kill herself by jumping, a strong gust of wind blew her to the floor below.\n" + 
+			"\n" + 
+			"The worst injury she sustained was a fractured hip.\n" + 
+			"\n" + 
+			"Pirates wore earrings because they believed it improved their eyesight.\n" + 
+			"Pirates wore earrings because they believed it improved their eyesight.\n" + 
+			"Along with many other reasons! Due to superstitions, they thought it protected them from bad eyesight (or even blindness), seasickness, and drowning.\n" + 
+			"\n" + 
+			"Los Angeles’s full name is “El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula.”\n" + 
+			"Los Angeles's full name is \"El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula.\"\n" + 
+			"The original name was quite a mouthful. It translates to “town of our lady the Queen of Angels of the River Porciuncula.”\n" + 
+			"\n" + 
+			"Now, Los Angeles is just “The Angels.”\n" + 
+			"\n" + 
+			"The Twitter bird actually has a name – Larry.\n" + 
+			"The Twitter bird actually has a name - Larry.\n" + 
+			"The name comes from Larry Bird, who is a famous Hall of Fame basketball player.\n" + 
+			"\n" + 
+			"The species of Larry the Bird still remains a secret!\n" + 
+			"\n" + 
+			"Octopuses have four pairs of arms.\n" + 
+			"Octopuses have four pairs of arms.\n" + 
+			"The six of an octopus’ tentacles serve as arms, while the other two are their “legs.”\n" + 
+			"\n" + 
+			"They use six tentacles just to eat!\n" + 
+			"\n" + 
+			"In the popular sitcom, Parks and Recreation, the writers had no idea Nick Offerman was a talented saxophone player when they wrote the Duke Silver plot line.\n" + 
+			"In the popular sitcom, Parks and Recreation, the writers had no idea Nick Offerman was a talented saxophone player when they wrote the Duke Silver plot line.\n" + 
+			"Nick Offerman has played the saxophone his whole life, so when the writer wrote about his character being a secret jazz musician, the coincidence was perfect.\n" + 
+			"\n" + 
+			"It snowed in the Sahara desert for 30 minutes on the 18th February 1979.\n" + 
+			"It snowed in the Sahara desert for 30 minutes on the 18th February 1979.\n" + 
+			"So far, this is the only known time in history that it snowed in the Sahara!\n" + 
+			"\n" + 
+			"Unsurprisingly, the snow melted away very quickly.\n" + 
+			"\n" + 
+			"Mike Tyson once offered a zoo attendant 10,000 dollars to let him fight a gorilla.\n" + 
+			"Mike Tyson once offered a zoo attendant 10,000 dollars to let him fight a gorilla.\n" + 
+			"As it is, Tyson bribed a worker to open the zoo for just he and his wife to see the animals.\n" + 
+			"\n" + 
+			"While on this romantic stroll, he tried to also bribe a zookeeper to let him fight a gorilla.\n" + 
+			"\n" + 
+			"The zoo attendant said no.\n" + 
+			"\n" + 
+			"ABBA turned down 1 billion dollars to do a reunion tour.\n" + 
+			"ABBA turned down 1 billion dollars to do a reunion tour.\n" + 
+			"In 2000, ABBA was offered $1 billion dollars to reunite for 100 shows – which would have been $250 million per member.\n" + 
+			"\n" + 
+			"They turned it down because it wasn’t for them.\n" + 
+			"\n" + 
+			"There has never been a verified snow leopard attack on a human being.\n" + 
+			"There has never been a verified snow leopard attack on a human being.\n" + 
+			"Unlike many other big cats, snow leopards are not aggressive towards humans.\n" + 
+			"\n" + 
+			"They are very reclusive creatures, and even if they are disturbed, they are more likely to run away than to attack.\n" + 
+			"\n" + 
+			"If you love these big cats, you’ll love these fun facts about snow leopards.\n" + 
+			"\n" + 
+			"The first alarm clock could only ring at 4 a.m.\n" + 
+			"The first alarm clock could only ring at 4 a.m.\n" + 
+			"Invented in 1787, Levi Hutchins needed a way to wake up in time for work, so he made the alarm clock.\n" + 
+			"\n" + 
+			"It took almost 100 years for a wind up alarm clock to be invented that could be set to any time.\n" + 
+			"\n" + 
+			"Birds don’t urinate.\n" + 
+			"Birds don't urinate.\n" + 
+			"Contrary to what most mammals do, birds convert nitrogen to uric acid.\n" + 
+			"\n" + 
+			"They get rid of this uric acid through the same place as they get rid all their other waste – their anus.\n" + 
+			"\n" + 
+			"Dying is illegal in the Houses of Parliaments.\n" + 
+			"Dying is illegal in the Houses of Parliaments.\n" + 
+			"Strange as it is, this law is in place because anyone who dies in the Houses of Parliaments is entitled to a state funeral.\n" + 
+			"\n" + 
+			"This has been voted as the most ridiculous law by the British citizens.\n" + 
+			"\n" + 
+			"You might like to know these fun facts about the top ten most crazy laws in the U.K.\n" + 
+			"\n" + 
+			"The most venomous jellyfish in the world is the Irukandji.\n" + 
+			"The most venomous jellyfish in the world is the Irukandji.\n" + 
+			"While it’s not the most deadly jellyfish, it is number two!\n" + 
+			"\n" + 
+			"Even more shocking, is that this tiny jellyfish is smaller than your fingernail.\n" + 
+			"\n" + 
+			"Its venom is 100 times more powerful than a cobra’s!\n" + 
+			"\n" + 
+			"The 20th of March is Snowman Burning Day.\n" + 
+			"The 20th of March is Snowman Burning Day.\n" + 
+			"This strange holiday was spawned by American and Swiss citizens to symbolize the end of the winter season.\n" + 
+			"\n" + 
+			"If you’re wondering how you actually burn a snowman, we have more fun facts about Snowman Burning Day here!\n" + 
+			"\n" + 
+			"Queen Elizabeth can’t sit on the Iron Throne from Game of Thrones.\n" + 
+			"Queen Elizabeth can't sit on the Iron Throne from Game of Thrones.\n" + 
+			"Queen Elizabeth visited the set of Game of Thrones, but because of an obscure rule, she wasn’t allowed to sit on it – the ruling monarch can’t sit on a foreign throne, even if it’s fictional, apparently.\n" + 
+			"\n" + 
+			"There is official Wizard of New Zealand.\n" + 
+			"There is official Wizard of New Zealand.\n" + 
+			"In 1990, the Prime Minister of New Zealand appointed Ian Brackenbury Channell, who was an old friend, as the Wizard of New Zealand. He is even given an annual stipend.\n" + 
+			"\n" + 
+			"If you’re planning a trip to the country where The Lord of the Rings was filmed, you’ll want to check out these fun facts about New Zealand!\n" + 
+			"\n" + 
+			"An apple, potato, and onion all taste the same if you eat them with your nose plugged.\n" + 
+			"An apple, potato, and onion all taste the same if you eat them with your nose plugged.\n" + 
+			"Our sense of taste is 80% made up of our sense of smell.\n" + 
+			"\n" + 
+			"If you were to blindfold yourself and plug your nose, you wouldn’t be able to tell the difference between these three foods!\n" + 
+			"\n" + 
+			"Vincent van Gogh only sold one painting in his lifetime.\n" + 
+			"Vincent van Gogh only sold one painting in his lifetime.\n" + 
+			"Just a few months before his death, Van Gogh sold his painting “The Red Vineyard.”\n" + 
+			"\n" + 
+			"It was sold in Brussels, Belgium for 400 francs.\n" + 
+			"\n" + 
+			"You may also like these 30 fun facts about Vincent van Gogh.\n" + 
+			"\n" + 
+			"A company in Taiwan makes dinnerware out of wheat, so you can eat your plate!\n" + 
+			"A company in Taiwan makes dinnerware out of wheat, so you can eat your plate!\n" + 
+			"Not only do they make plates out of wheat, but spoons, bowls, and chopsticks as well.\n" + 
+			"\n" + 
+			"The dishes can be kept for months as long as they stay dry!\n" + 
+			"\n" + 
+			"The average person walks the equivalent of five times around the world in their lifetime.\n" + 
+			"The average person walks the equivalent of five times around the world in their lifetime.\n" + 
+			"Assuming the average person lives until they’re 80, they will walk about 110,000 miles in their lifetime.\n" + 
+			"\n" + 
+			"The circumference of the equator is 24,900 miles.\n" + 
+			"\n" + 
+			"Michael Jackson offered to make a Harry Potter musical, but J.K. Rowling rejected the idea.\n" + 
+			"Michael Jackson offered to make a Harry Potter musical, but J.K. Rowling rejected the idea.\n" + 
+			"Rowling defended herself because she says she turned down a lot of adaption opportunities, and Michael Jackson’s just so happened to be one of them.\n" + 
+			"\n" + 
+			"The world record for stuffing drinking straws into your mouth at once is 459.\n" + 
+			"The world record for stuffing drinking straws into your mouth at once is 459.\n" + 
+			"Manoj Kumar Maharana, from India, broke the world record on 28th August 2017 for stuffing 459 drinking straws in his mouth at once!\n" + 
+			"\n" + 
+			"In order to break it, he had to keep them in his mouth for at least 10 seconds.\n" + 
+			"\n" + 
+			"Nutella was invented during WWII, when hazelnuts were mixed into chocolate to extend chocolate rations.\n" + 
+			"Nutella was invented during WWII, when hazelnuts were mixed into chocolate to extend chocolate rations.\n" + 
+			"In an effort to extend his chocolate rations during World War Two, an Italian pastry maker mixed hazelnuts into chocolate.\n" + 
+			"\n" + 
+			"The final Nutella product was created by his son who decided to perfect the recipe.\n" + 
+			"\n" + 
+			"In 2011, more than 1 in 3 divorce filings in the U.S. contained the word “Facebook.”\n" + 
+			"In 2011, more than 1 in 3 divorce filings in the U.S. contained the word \"Facebook.\"\n" + 
+			"References to social networks are on the rise when it comes to divorce cases, as well as child custody cases.\n" + 
+			"\n" + 
+			"According to Genesis 1:20-22 the chicken came before the egg.\n" + 
+			"According to Genesis 1:20-22 the chicken came before the egg.\n" + 
+			"Depending on your beliefs, these Genesis verses state that God created birds – not eggs that would hatch into birds. This includes chickens!\n" + 
+			"\n" + 
+			"Honeybees can get drunk on fermented tree sap.\n" + 
+			"Honeybees can get drunk on fermented tree sap.\n" + 
+			"It affects bees in a similar way that alcohol affects humans, causing flying accidents and making it difficult to get back to the hive.\n" + 
+			"\n" + 
+			"Sober bees at the hive will attack the drunken bees to prevent them from entering the hive.\n" + 
+			"\n" + 
+			"Tears contain a natural pain killer which reduces pain and improves your mood.\n" + 
+			"Tears contain a natural pain killer which reduces pain and improves your mood.\n" + 
+			"It’s actually an endorphin, which is why you can tend to feel better after a good cry!\n" + 
+			"\n" + 
+			"So next time you feel the need to break down, don’t be shy!\n" + 
+			"\n" + 
+			"Squirrels forget where they hide about half of their nuts.\n" + 
+			"Squirrels forget where they hide about half of their nuts.\n" + 
+			"While not all squirrels bury their nuts, the ones that do only recover around 26% of their nuts.\n" + 
+			"\n" + 
+			"Don’t miss these fun facts about squirrels.\n" + 
+			"\n" + 
+			"Millions of birds a year die from smashing into windows in the U.S. alone.\n" + 
+			"Millions of birds a year die from smashing into windows in the U.S. alone.\n" + 
+			"The actual number is somewhere between 365 million and 988 million!\n" + 
+			"\n" + 
+			"While the exact number of the bird population is uncertain, this comes out to about 2 to 10 percent of birds in the United States.\n" + 
+			"\n" + 
+			"Dolly Parton lost in a Dolly Parton look-alike contest.\n" + 
+			"Dolly Parton lost in a Dolly Parton look-alike contest.\n" + 
+			"Dolly Parton entered a Dolly Parton themed drag queen contest, did her hair and makeup more dramatically, and not only lost, but received the least applause.\n" + 
+			"\n" + 
+			"George W. Bush was once a cheerleader.\n" + 
+			"George W. Bush was once a cheerleader.\n" + 
+			"Bush was a cheerleader in High School, and continued to be one while he attended Yale.\n" + 
+			"\n" + 
+			"In high school, he was even promoted to head cheerleader!\n" + 
+			"\n" + 
+			"In total, there are 205 bones in the skeleton of a horse.\n" + 
+			"In total, there are 205 bones in the skeleton of a horse.\n" + 
+			"Even though they are much greater in size to humans (we have 206), horses have just about the same number of bones in their skeleton as we do!\n" + 
+			"\n" + 
+			"Coca-Cola owns all website URLs that can be read as ahh, all the way up to 62 h’s.\n" + 
+			"Coca-Cola owns all website URLs that can be read as ahh, all the way up to 62 h's.\n" + 
+			"A 2013 digital campaign by Coca-Cola spurred the company to purchase all 62 URL’s.\n" + 
+			"\n" + 
+			"You can read more fun facts about Coca-Cola here!\n" + 
+			"\n" + 
+			"Each year there are more than 40,000 toilet related injuries in the United States.\n" + 
+			"Each year there are more than 40,000 toilet related injuries in the United States.\n" + 
+			"Some of these make sense, like a child of infant falling in.\n" + 
+			"\n" + 
+			"Others are attributed to toilet seats falling down, or complications due to bowel movements.\n" + 
+			"\n" + 
+			"Strawberries can be red, yellow, green or white.\n" + 
+			"Strawberries can be red, yellow, green or white.\n" + 
+			"This of course refers to the different maturity stages of a strawberry.\n" + 
+			"\n" + 
+			"Before it’s ripe and red, it will be green. Yellow strawberries are a different type altogether – called Alpine Strawberries.\n" + 
+			"\n" + 
+			"If you want more fun facts about this fruit, here are seven scrumptious facts about strawberries.\n" + 
+			"\n" + 
+			"Mewtwo is a clone of the Pokémon Mew, yet it comes before Mew in the Pokédex.\n" + 
+			"Mewtwo is a clone of the Pokémon Mew, yet it comes before Mew in the Pokédex.\n" + 
+			"Because Mewtwo was in the Pokémon game, but Mew was only acquired through events at the time, Mewtwo was given the number 150, while Mew is number 151.\n" + 
+			"\n" + 
+			"Four people lived in a home for 6 months infested with about 2,000 brown recluse spiders, but none of them were harmed.\n" + 
+			"Four people lived in a home for 6 months infested with about 2,000 brown recluse spiders, but none of them were harmed.\n" + 
+			"While the brown recluse is one of three spiders in North America with venom that requires medical treatment, they are hardly ever aggressive.\n" + 
+			"\n" + 
+			"Madonna suffers from brontophobia, which is the fear of thunder.\n" + 
+			"Madonna suffers from brontophobia, which is the fear of thunder.\n" + 
+			"This scary sounding word isn’t so complicated – it’s the fear of thunder.\n" + 
+			"\n" + 
+			"Madonna is so scared of it that she has been known to frequently check weather reports before shows.\n" + 
+			"\n" + 
+			"The fear of thunder is also known as astraphobia, astrapophobia, keraunophobia or tonitrophobia.\n" + 
+			"\n" + 
+			"In June 2017, the Facebook community reached 2 billion active users.\n" + 
+			"In June 2017, the Facebook community reached 2 billion active users.\n" + 
+			"Meaning, more than a quarter of the world’s population uses this popular social media outlet!\n" + 
+			"\n" + 
+			"Samuel L. Jackson requested a purple lightsaber in Star Wars in order for him to accept the part as Mace Windu.\n" + 
+			"Samuel L. Jackson requested a purple lightsaber in Star Wars in order for him to accept the part as Mace Windu.\n" + 
+			"Jackson wanted to be able to find himself on screen in big fight scenes, so he managed to get George Lucas to approve his request and grant him with a purple lightsaber.\n" + 
+			"\n" + 
+			"See our full list of fun facts about Star Wars here.\n" + 
+			"\n" + 
+			"Paraskavedekatriaphobia is the fear of Friday the 13th.\n" + 
+			"Paraskavedekatriaphobia is the fear of Friday the 13th.\n" + 
+			"A few famous people are stricken with this absurd phobia, such as Franklin Roosevelt, and surprisingly enough, Stephen King.\n" + 
+			"\n" + 
+			"You can find out more fun facts about Stephen King here!\n" + 
+			"\n" + 
+			"Kleenex tissues were originally used as filters in gas masks.\n" + 
+			"Kleenex tissues were originally used as filters in gas masks.\n" + 
+			"They were originally been developed as crepe paper and used for gas mask filters.\n" + 
+			"\n" + 
+			"The actual Kleenex product we know of today evolved from that by accident.\n" + 
+			"\n" + 
+			"In 1998, Sony accidentally sold 700,000 camcorders that had the technology to see through people’s clothes.\n" + 
+			"In 1998, Sony accidentally sold 700,000 camcorders that had the technology to see through people's clothes.\n" + 
+			"These cameras had special lenses that use infrared light meant to be used as night vision, but it also allowed you to see through some types of clothing.\n" + 
+			"\n" + 
+			"During your lifetime, you will spend around thirty-eight days brushing your teeth.\n" + 
+			"During your lifetime, you will spend around thirty-eight days brushing your teeth.\n" + 
+			"This equals out to about 35.5 days in total.\n" + 
+			"\n" + 
+			"At about two minutes per day, this equates to 0.1% of your life!\n" + 
+			"\n" + 
+			"Ronald McDonald is “Donald McDonald” in Japan because it makes pronunciation easier for the Japanese.\n" + 
+			"Ronald McDonald is \"Donald McDonald\" in Japan because it makes pronunciation easier for the Japanese.\n" + 
+			"Ever since the first McDonald’s opened in Japan in 1971, the mascot has been called Donald McDonald.\n" + 
+			"\n" + 
+			"Often, Japanese people are surprised to learn he has a different name everywhere else.\n" + 
+			"\n" + 
+			"Read More...\n" + 
+			"\n" + 
+			"Next Page >\n" + 
+			"Did you know that Walt Disney World is the second-largest buyer of explosives in the U.S?\n" + 
+			"\n" + 
+			"#FACT\n" + 
+			"SHARE\n" + 
+			"TWEET\n" + 
+			"Fact Lists\n" + 
+			",\n" + 
+			"Top 100\n" + 
+			"Related Posts\n" + 
+			"100 Fun Food Facts You Wont Believe Are True\n" + 
+			"100 Fun Food Facts You Wont Believe Are True\n" + 
+			"100 Strange but True Facts that Will Shock You\n" + 
+			"100 Strange But True Facts That Will Shock You\n" + 
+			"100 Amazing Facts You Never Knew\n" + 
+			"100 Utterly Amazing Facts You Never Knew\n" + 
+			"100 Mind Blowing Facts\n" + 
+			"100 Crazy Facts To Truly Blow Your Mind!\n" + 
+			"1000 Interesting & Random Facts\n" + 
+			"1000 Random & Interesting Facts About Literally Everything\n" + 
+			"100 Fashion Facts\n" + 
+			"100 Fascinating Facts About Fashion & Clothing\n" + 
+			"Share This Article\n" + 
+			"About the Author\n" + 
+			"Luke WardLuke Ward\n" + 
+			"Luke Ward is the founder of The Fact Site. He's a professional blogger & researcher with over 11 years’ experience in fact finding, SEO & web design. In his spare time he loves to travel and drink coffee.\n" + 
+			"\n" + 
+			"More From Random Facts\n" + 
+			"Mythical Creatures From Folklore That Live In The Home\n" + 
+			"8 Mythical Creatures From Folklore That Live In The Home\n" + 
+			"1000 Interesting & Random Facts\n" + 
+			"1000 Random & Interesting Facts About Literally Everything\n" + 
+			"Follow Us\n" + 
+			"First Name\n" + 
+			"Last Name\n" + 
+			"Email\n" + 
+			"SUBSCRIBE\n" + 
+			"Latest Facts\n" + 
+			"Carrots on a woodern background wearing glasses.\n" + 
+			"Do Carrots Help You See In The Dark?\n" + 
+			"13 Valiant Facts About Velociraptors\n" + 
+			"13 Valiant Facts About Velociraptors\n" + 
+			"20 juicy Facts About June\n" + 
+			"20 Juicy Facts About June\n" + 
+			"A history of fridge magnets\n" + 
+			"The Magic History Of Fridge Magnets\n" + 
+			"\n" + 
+			"\n" + 
+			"Mediavine\n" + 
+			"Trending\n" + 
+			"100 Crazy History Facts They Didn't Teach You In School\n" + 
+			"100 History Facts They Didn’t Teach You At School\n" + 
+			"");
+	}
+	}
